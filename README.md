@@ -22,15 +22,15 @@ Professor: [Diego Fernandes](https://github.com/diego3g)
 # Interface
 ### Página Inicial - Login
 ![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/loginScreenWeb.jpg)
-![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/loginMobile.png)
+![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/loginMobile.png)
 
 ### Area de Likes / Dislikes
-![Web](https://raw.githubusercontent.com/jeanoliveira92/ocketseat-omnistack-8/blob/master/likeAreaWeb.jpg)
-![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/likeAreaMobile.png)
+![Web](https://raw.githubusercontent.com/jeanoliveira92/ocketseat-omnistack-8/master/likeAreaWeb.jpg)
+![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/likeAreaMobile.png)
 
 ### Match entre usuários
-![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/matchWeb.jpg)
-![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/machMobile.png)
+![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/matchWeb.jpg)
+![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/machMobile.png)
 
 
 ## Licença
