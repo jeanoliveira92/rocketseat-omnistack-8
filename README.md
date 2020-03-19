@@ -20,6 +20,7 @@ Professor: [Diego Fernandes](https://github.com/diego3g)
 * React Native na aplicação Mobile
 
 # Interface
+Web \ Mobile
 ### Página Inicial - Login
 ![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/loginScreenWeb.jpg)
 ![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/loginMobile.png)
