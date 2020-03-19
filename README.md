@@ -12,6 +12,7 @@ Professor: [Diego Fernandes](https://github.com/diego3g)
 * Mongodb
 * React
 * React Native
+* Expo
 
 # Projetos
 
