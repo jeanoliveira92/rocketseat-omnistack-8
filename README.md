@@ -20,8 +20,18 @@ Professor: [Diego Fernandes](https://github.com/diego3g)
 * React Native na aplicação Mobile
 
 # Interface
-### Página Inicial
-![](https://github.com/jeanoliveira92/rocketseat-omnistack-8/screenshot.jpg)
+### Página Inicial - Login
+![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/loginScreenWeb.jpg)
+![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/loginMobile.png)
+
+### Area de Likes / Dislikes
+![Web](https://raw.githubusercontent.com/jeanoliveira92/ocketseat-omnistack-8/blob/master/likeAreaWeb.jpg)
+![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/likeAreaMobile.png)
+
+### Match entre usuários
+![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/matchWeb.jpg)
+![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/blob/master/machMobile.png)
+
 
 ## Licença
 
