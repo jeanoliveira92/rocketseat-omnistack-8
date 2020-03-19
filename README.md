@@ -25,7 +25,7 @@ Professor: [Diego Fernandes](https://github.com/diego3g)
 ![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/loginMobile.png)
 
 ### Area de Likes / Dislikes
-![Web](https://raw.githubusercontent.com/jeanoliveira92/ocketseat-omnistack-8/master/likeAreaWeb.jpg)
+![Web](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/likeAreaWeb.jpg)
 ![Mobile](https://raw.githubusercontent.com/jeanoliveira92/rocketseat-omnistack-8/master/likeAreaMobile.png)
 
 ### Match entre usuários
